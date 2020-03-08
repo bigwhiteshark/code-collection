@@ -1,2 +1,2 @@
-# code-collection
+# collection
 collect some little programs.
